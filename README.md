@@ -5,12 +5,16 @@ A top-down 2D zombie survival shooter game built using C++ and SFML. The player 
 🔧 Key Components:
 
 ZombieArena.cpp: Main game loop and event handling
+
 Player.cpp: Player logic, movement, health, and upgrades
+
 bullet.cpp: Bullet mechanics and collision logic
+
 zombie.cpp: Zombie types, spawning, chasing behavior
 
 
 🎯 Technologies Used:
 
 C++
+
 SFML (Simple and Fast Multimedia Library)
